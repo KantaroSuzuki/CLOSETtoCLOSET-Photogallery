@@ -64,22 +64,23 @@
     /* ここからheader */
 
     header {
-        height: 33px;
+        height: 50px;
 
     }
 
     .header-left {
-        font-size: 20px;
-        margin: 5.5px 0 0 7px;
+        font-size: 15px;
+        margin: 17px 0 0 30px;
     }
 
     .header-right {
-        font-size: 11px;
-        margin-top: 11px;
+        font-size: 17px;
+        margin-top: 16px;
     }
 
     .header-right a {
-        padding-left: 15px;
+        padding-left: 20px;
+        padding-right: 20px;
     }
 
     /* ここからfooter */
