@@ -1,6 +1,6 @@
 $(function() {
 
-    $('#title').fadeIn(3500);
+    $('#title').fadeIn(4500);
 
     
 
